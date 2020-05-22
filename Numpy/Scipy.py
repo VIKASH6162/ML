@@ -39,6 +39,10 @@ i = scipy.integrate.quad(f, 0, 1)
 print(i)
 
 # start from SciPy - Interpolate
+# then scikit and matplotlib
+
+# https://www.javatpoint.com/data-structure-tutorial
+# https://www.javatpoint.com/ansible-interview-questions
 
 
 
