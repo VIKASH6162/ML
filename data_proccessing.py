@@ -57,6 +57,7 @@ X_test = sc_X.transform(X_test)
 # X_train[:, 3:] = sc_X.fit_transform(X_train[:, 3:])
 # X_test[:, 3:] = sc_X.transform(X_test[:, 3:])
 
+# start coding from 25
 
 
 
